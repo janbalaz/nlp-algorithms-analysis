@@ -12,7 +12,7 @@ Please follow these instructions to install code of this thesis. Note that it wa
 - Install Python packages, it is NOT recommended to use virtualenv due to problems with some required Linux packages:
   `pip install -r /path/to/requirements.txt` (TBD)
 - Install frontend dependencies (verify that your node.js satisfies version in `frontend/package.json`):
-  `cd ./frontend && npm run install`
+ `cd ./frontend && npm run install`
 
 ## How to Run
 ### MongoDB
