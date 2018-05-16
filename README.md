@@ -32,6 +32,7 @@ Or use my favourite Python IDE [Pycharm](https://www.jetbrains.com/pycharm/).
 
 ### Frontend
 To run frontend on the default port in development mode locally, use command:
+
 `cd ./frontend && npm run dev`
 
 Open your browser:
